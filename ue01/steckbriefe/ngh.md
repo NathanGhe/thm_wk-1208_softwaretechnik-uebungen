@@ -1,4 +1,4 @@
-# Steckbrief <ngh>
+# Steckbrief ngh
 
 ## Studiengang und Semester
 Wirtschaftsinformatik, 5. Semester
